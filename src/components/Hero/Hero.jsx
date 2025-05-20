@@ -1,0 +1,20 @@
+import React from 'react'
+import heroLogo from '../../assets/spices.png'
+import heroLogoTwo from '../../assets/drink.png'
+
+const Hero = () => {
+  return (
+    <div className="bg-[url('../../../bg.jpg')] bg-cover h-[85vh] spxx:h-[120vh] spy:h-[90vh] spxxx:h-[100vh] flex flex-wrap justify-start gap-[1rem] sm:gap-[0rem] pt-[6rem] md:pt-[12rem] spxx:pt-[7.5rem] sm:pt-[10rem] lg:pt-[14rem]">
+        <div className="flex flex-col pl-[6rem] sm:pl-[3rem] spxx:pl-[3rem] justify-center">
+        <div className="font-style sm:text-[3.2rem] spxx:text-[2.5rem]">Be's Kitchen</div>
+        <p className="slogan">Your Family's Trust</p>
+        </div>
+        <div className='flex'>
+          <img src={heroLogoTwo} className="w-[25rem] h-[22rem] sm:h-[20rem] spxx:ml-[-4rem] sm:ml-[-4rem]" />
+          <img src={heroLogo} className="w-[25rem] sm:w-[20rem] h-[30rem] sm:h-[24rem] ml-[-13rem]" />
+        </div>
+    </div>
+  )
+}
+
+export default Hero;

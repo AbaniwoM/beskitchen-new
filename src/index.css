@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+  
+body {
+  background: #171717;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+}
+  
+.font-style {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-size: 3.5rem;
+  color: white;
+}
+  
+.slogan {
+  font-family: "Homemade Apple", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2rem;
+  color: white;
+}
+  
+.boxes {
+  display: flex;
+  align-items: center;
+}
+  
+.spice-text {
+  font-family: "Berkshire Swash", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+.zoboText {
+  font-family: "Berkshire Swash", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+.offerText {
+  font-family: "Berkshire Swash", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+.offerHead {
+  font-family: "Boogaloo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+  
+  
+/* Responsive screens */
+
+/* Menupage */
+@media only screen and (max-width: 390px) {
+  .smScreen {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 0;
+    margin: 0;
+    justify-content: center;
+  }
+  .smScreenTwo {
+    width: 9rem;
+  }
+
+  .smScreenThree {
+    gap: 0rem;
+  }
+}
+  
