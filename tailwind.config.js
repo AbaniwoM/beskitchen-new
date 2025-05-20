@@ -19,7 +19,7 @@ export default {
       'md': {'min': '640px', 'max': '768px'},
       // => @media (max-width: 767px) { ... }
 
-      'sm': {'max': '639px'},
+      'sm': {'min': '0px','max': '639px'},
       // => @media (max-width: 639px) { ... }
 
       'spxx': {'min': '320px', 'max': '320px'},
