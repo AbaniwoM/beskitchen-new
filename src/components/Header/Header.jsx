@@ -16,7 +16,7 @@ const Header = () => {
         <div className='bg-stone-600 w-[9rem] h-[2rem] lg:w-[11rem] lg:h-[2.5rem] flex items-center justify-center text-white ml-5 cursor-pointer hover:bg-stone-500'>+234-111-1111-111</div>
       </div>
       <div className='hidden sm:flex sm:items-center sm:justify-around sm:gap-[7rem] md:flex md:items-center md:justify-around md:gap-[18rem] sm:fixed sm:top-0 sm:z-10 md:fixed md:top-0 md:z-10 bg-white w-full'>
-        <img src={logo} className="w-[4rem] md:w-[4.5rem] h-[4rem] md:h-[4.5rem]" />
+        <img src={logo} className="w-[4rem] md:w-[4.5rem] h-[4rem] md:h-[4.5rem] sm:w-[3.5rem] sm:h-[3.5rem]" />
         <Hamburger />
       </div>
     </div>

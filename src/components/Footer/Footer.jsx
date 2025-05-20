@@ -6,7 +6,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className='bg-stone-600 h-[80vh] md:h-[122vh] sm:h-[150vh] spxxx:h-[165vh] lg:h-[110vh] spx:h-[142vh] spxx:h-[230vh]  md:text-center lg:text-center md:justify-center sm:text-center sm:justify-center flex flex-col flex-wrap justify-center gap-[5rem] items-center text-white sm:text-[1.2rem] md:text-[1.4rem] lg:text-[1.4rem]'>
+    <div className='bg-stone-600 h-[80vh] md:h-[122vh] sm:h-[120vh] spxxx:h-[150vh] lg:h-[110vh] spx:h-[142vh] spxx:h-[230vh]  md:text-center lg:text-center md:justify-center sm:text-center sm:justify-center flex flex-col flex-wrap justify-center gap-[5rem] items-center text-white sm:text-[1.2rem] md:text-[1.4rem] lg:text-[1.4rem]'>
        <div className='flex flex-col items-center gap-6'>
        <img src={logo} className="w-[4rem] h-[4rem]" />
        <div className='text-center w-[40%] sm:w-[60%]'>Duis pretium gravida enim, vel maximus ligula fermentum a. Sed rhoncus eget ex id egestas. Nam nec nisl placerat, tempus erat a, condimentum metusurabitur.</div>

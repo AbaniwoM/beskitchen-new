@@ -5,7 +5,7 @@ import { IoMdMail } from "react-icons/io";
 
 const ContactSectionOne = () => {
   return (
-    <div className='flex sm:flex-col md:flex-col bg-stone-600 h-[13rem] sm:h-[32rem] md:h-[32rem] sp:m-[3rem] md:m-[6rem] spxx:m-[2rem] spxxx:m-[3rem] m-[4rem] lg:m-[2rem] sm:mb-[5.5rem] spxx:mb-[5.5rem] spxx:mt-[5.5rem] sp:mb-[5.5rem] sp:mt-[5.5rem] lg:mb-[5.5rem] lg:mt-[5.5rem] spxxx:mb-[5.5rem] spxxx:mt-[5.5rem] sm:mt-[5.5rem] items-center sm:text-center justify-center gap-[4rem] sm:gap-[4.5rem]'>
+    <div className='flex sm:flex-col md:flex-col bg-stone-600 h-[13rem] sm:h-[32rem] md:h-[32rem] sp:m-[3rem] md:m-[6rem] spxx:m-[2rem] spxxx:m-[3rem] m-[4rem] sm:m-[1.5rem] lg:m-[2rem] sm:mb-[5.5rem] spxx:mb-[5.5rem] spxx:mt-[5.5rem] sp:mb-[5.5rem] sp:mt-[5.5rem] lg:mb-[5.5rem] lg:mt-[5.5rem] spxxx:mb-[5.5rem] spxxx:mt-[5.5rem] sm:mt-[5.5rem] items-center sm:text-center justify-center gap-[4rem] sm:gap-[4.5rem]'>
         <div className='flex items-center gap-4 sm:gap-2 md:gap-5'>
             <div className='text-4xl md:text-5xl spxx:text-3xl text-yellow-400'><FaLocationDot /></div>
             <div className='flex flex-col text-white'>

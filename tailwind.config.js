@@ -7,13 +7,16 @@ export default {
   theme: {
     extend: {},
     screens: {
-      'xl': {'max': '1279px'},
+      'xxl': {'min': '1280px', 'max': '1440px'},
+      // => @media (max-width: 1440px) { ... }
+
+      'xl': {'min': '1024px', 'max': '1279px'},
       // => @media (max-width: 1279px) { ... }
 
-      'lg': {'max': '1023px'},
+      'lg': {'min': '769px', 'max': '1023px'},
       // => @media (max-width: 1023px) { ... }
 
-      'md': {'max': '767px'},
+      'md': {'min': '640px', 'max': '768px'},
       // => @media (max-width: 767px) { ... }
 
       'sm': {'max': '639px'},
