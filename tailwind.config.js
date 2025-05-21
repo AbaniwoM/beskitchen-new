@@ -28,7 +28,16 @@ export default {
 
       'sp': {'min': '360px', 'max': '360px'},
 
-      'spx': {'min': '428px', 'max': '428px'}
+      'spx': {'min': '428px', 'max': '428px'},
+
+      //android responsiveness
+      'nx': {'min': '376px', 'max': '425px'},
+
+      'nxx': {'min': '321px', 'max': '375px'},
+
+      'nxxx': {'min': '0px', 'max': '320px'},
+
+      'yx': {'min': '426px', 'max': '768px'}
     },
   },
   plugins: [],

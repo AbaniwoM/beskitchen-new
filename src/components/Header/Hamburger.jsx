@@ -20,7 +20,7 @@ const Hamburger = () => {
         {nav ? (
           // close button
           <i
-            className="fixed left-[19.5rem] sm:text-[1.5rem] sp:left-[18.3rem] spx:left-[21.5rem] sm:left-[21.8rem] md:left-[40rem] top-[1rem] sm:top-[0.9rem] md:top-[1.2rem] md:text-4xl text-3xl text-black z-50 sm:block md:block cursor-pointer"
+            className="fixed left-[19.5rem] sm:text-[1.5rem] sp:left-[18.3rem] spx:left-[21.5rem] sm:left-[21.8rem] nxx:left-[19.2rem] nxxx:left-[16.5rem] md:left-[40rem] top-[1rem] sm:top-[0.9rem] md:top-[1.2rem] md:text-4xl text-3xl text-black z-50 sm:block md:block cursor-pointer"
             aria-hidden="true"
             onClick={showNav}
           ><LiaTimesSolid /></i>

@@ -68,11 +68,11 @@ const MenuSectionFour = () => {
                   </div>
                 </div>
                 )}
-                <button className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem]' onClick={toggleModalFive}>Partminger</button>
+                <button className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1rem]' onClick={toggleModalFive}>Partminger</button>
                 <p className='text-gray-400'>........................................................</p>
-                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem]'>₦500</p>
+                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>₦500</p>
             </div>
-            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
+            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
         </div>
         <div className='flex flex-col'>
             <div className='flex gap-1 flex-wrap'>
@@ -87,11 +87,11 @@ const MenuSectionFour = () => {
                   </div>
                 </div>
                 )}
-                <button className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem]' onClick={toggleModalSix}>Garlic</button>
+                <button className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1rem]' onClick={toggleModalSix}>Garlic</button>
                 <p className='text-gray-400'>...............................................................</p>
-                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem]'>₦1500</p>
+                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>₦1500</p>
             </div>
-            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
+            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
         </div>
     </div>
     <div className='flex flex-wrap justify-between sm:gap-[3rem] md:gap-[3rem] lg:gap-[3rem]'>
@@ -108,11 +108,11 @@ const MenuSectionFour = () => {
                   </div>
                 </div>
                 )}
-                <h3 className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem]' onClick={toggleModalSeven}>Ginger</h3>
+                <h3 className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1rem]' onClick={toggleModalSeven}>Ginger</h3>
                 <p className='text-gray-400'>.............................................................</p>
-                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem]'>₦1000</p>
+                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>₦1000</p>
             </div>
-            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
+            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
         </div>
         <div className='flex flex-col'>
             <div className='flex gap-1 flex-wrap'>
@@ -127,11 +127,11 @@ const MenuSectionFour = () => {
                   </div>
                 </div>
                 )}
-                <h3 className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem]' onClick={toggleModalEight}>Scent Leaves</h3>
+                <h3 className='text-white font-bold cursor-pointer md:text-[1.3rem] lg:text-[1.5rem] sm:text-[1.2rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1rem]' onClick={toggleModalEight}>Scent Leaves</h3>
                 <p className='text-gray-400'>..................................................</p>
-                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem]'>₦1200</p>
+                <p className='text-yellow-500 spice-text md:text-[1.3rem] lg:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>₦1200</p>
             </div>
-            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
+            <div className='text-gray-400 md:text-[1.3rem] lg:text-[1.4rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>Maecenas interdum lorem eleifend orci aliquam mollis.</div>
         </div>
     </div>
     </div>
