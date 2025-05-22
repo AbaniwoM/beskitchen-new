@@ -9,8 +9,8 @@ const AboutSectionOne = () => {
         </div>
         <div className='flex w-[50%] flex-col sm:w-[100%] md:w-[100%] text-white gap-6 md:gap-8'>
             <h3 className='text-2xl md:text-4xl lg:text-3xl font-bold sm:mt-10 md:mt-10 sm:text-[2rem] sp:text-[1.8rem] nxxx:text-[1.5rem] nxx:text-[1.5rem] nx:text-[1.5rem]'>Our Founder</h3>
-            <p className='md:text-[1.4rem] sm:text-[1.1rem] sp:text-[1rem] nxxx:text-[0.9rem] nxx:text-[0.9rem] nx:text-[0.9rem]'>Aenean sed lorem est. Sed quis neque ut nibh suscipit imperdiet ac non augue. Aenean ornare sit amet lectus non tristique. Nunc ut volutpat lectus. Nulla velit augue, pulvinar sed nisi sit amet, eleifend fermentum est.</p>
-            <p className='md:text-[1.4rem] sm:text-[1.1rem] sp:text-[1rem] nxxx:text-[0.9rem] nxx:text-[0.9rem] nx:text-[0.9rem]'>Quisque nibh justo, congue ut erat at, aliquet efficitur purus. Integer venenatis odio vitae orci efficitur mollis. Donec ultrices diam dictum dignissim vestibulum. Proin eleifend nunc nunc. Sed non arcu eget lorem viverra sodales.</p>
+            <p className='md:text-[1.4rem] sm:text-[1.1rem] sp:text-[1rem] nxxx:text-[0.9rem] nxx:text-[0.9rem] nx:text-[0.9rem]'>Misa Martha is a passionate Nigerian entrepreneur, herbal wellness advocate and the creative force behind Päradigma. Born and raised in Abuja, she grew up watching her grandmother mix roots, spices and hibiscus into healing brews that soothed everything from belly aches to heartbreak.</p>
+            <p className='md:text-[1.4rem] sm:text-[1.1rem] sp:text-[1rem] nxxx:text-[0.9rem] nxx:text-[0.9rem] nx:text-[0.9rem]'>Martha started her brand in 2019 after struggling to find authentic chemical-free spice blends and natural Zobo options on the market. Tired of overly processed products, she began creating her own dry blends using locally sourced hibiscus, cloves, ginger and medicinal herbs from across Nigeria.</p>
             <h3 className='text-4xl slogan sm:text-2xl nxxx:text-[1.2rem] nxx:text-[1.2rem] nx:text-[1.2rem]'>Misa Martha</h3>
         </div>
     </div>

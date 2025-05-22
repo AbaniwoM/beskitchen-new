@@ -10,21 +10,21 @@ const ContactSectionOne = () => {
             <div className='text-4xl md:text-5xl spxx:text-3xl text-yellow-400 nx:text-[1.8rem] nxx:text-[1.8rem] nxxx:text-[1.8rem]'><FaLocationDot /></div>
             <div className='flex flex-col text-white'>
                 <h3 className='font-bold text-[1.2rem] md:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>Physical Address</h3>
-                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'>304 North Cardinal St. <br/> Dorchester Center, MA 02124</p>
+                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'>34 South Curdinal St. <br/> Durchuster Center, Lagos, Nigeria</p>
             </div>
         </div>
         <div className='flex items-center gap-4 md:gap-6'>
             <div className='text-4xl md:text-5xl spxx:text-3xl text-yellow-400 nx:text-[1.8rem] nxx:text-[1.8rem] nxxx:text-[1.8rem]'><FaPhoneAlt /></div>
             <div className='flex flex-col text-white'>
                 <h3 className='font-bold text-[1.2rem] md:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>Phone Numbers</h3>
-                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'> (850)324-7023 <br/> 1-800-123-4567</p>
+                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'> (850)324-7023 <br/> +234-111-1111-111</p>
             </div>
         </div>
         <div className='flex items-center gap-4 md:gap-6'>
             <div className='text-4xl md:text-5xl spxx:text-3xl text-yellow-400 nx:text-[1.8rem] nxx:text-[1.8rem] nxxx:text-[1.8rem]'><IoMdMail /></div>
             <div className='flex flex-col text-white'>
                 <h3 className='font-bold text-[1.2rem] md:text-[1.5rem] nx:text-[1.1rem] nxx:text-[1.1rem] nxxx:text-[1.1rem]'>Email Address</h3>
-                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'>info@mail.com <br/> contact@company.com</p>
+                <p className='text-[0.9rem] md:text-[1.2rem] nx:text-[0.8rem] nxx:text-[0.8rem] nxxx:text-[0.8rem]'>paradigma@mail.com <br/> contact@paradigma.com</p>
             </div>
         </div>
     </div>

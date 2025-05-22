@@ -1,6 +1,6 @@
 import React from 'react'
-import zoboOne from '../../../assets/cocktail.jpg'
-import zoboTwo from '../../../assets/pouring.jpg'
+import zoboOne from '../../../assets/cocktail-transformed.jpeg'
+import zoboTwo from '../../../assets/pouring-transformed.jpeg'
 
 const SectionTwo = () => {
   return (
@@ -11,7 +11,7 @@ const SectionTwo = () => {
         </div>
         <div className='flex flex-col w-[40%] xxl:w-[50%] sm:w-[100%] md:w-[100%] text-white justify-center gap-8'>
             <h3 className='zoboText text-2xl w-[65%] sm:w-[95%] sp:w-[85%] md:w-[90%] md:text-[2rem] md:leading-[2.5rem] sm:leading-[2.6rem] sm:text-[1.9rem] nx:text-[1.6rem] nxx:text-[1.6rem] nxxx:text-[1.6rem]'>Bringing you a nice blend of Zobo drinks specially made to suite your taste</h3>
-            <p className='md:text-[1.3rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>Mauris neque nisi, faucibus non elementum in, convallis et eros. Sed pretium sem libero, vel pellentesque purus ultrices ut. In quis leo id massa pulvinar euismod cursus non justo. Sed sagittis et urna non efficitur nulla nec lacus tincidunt.</p>
+            <p className='md:text-[1.3rem] sm:text-[1.1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem]'>We are not just blending herbs - we are bottling tradition. From the rich red Zobo leaves (hibiscus) of the North to spicy ginger of the South, we bring together generations of knowledge passed from mother to daughter, village to city.</p>
         </div>
     </div>
   )
