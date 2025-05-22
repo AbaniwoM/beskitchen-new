@@ -6,7 +6,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className='bg-stone-600 h-[80vh] md:h-[122vh] sm:h-[180vh] nx:h-[140vh] yx:h-[152vh] nxx:h-[140vh] nxxx:h-[140vh] spxxx:h-[150vh] lg:h-[110vh] spx:h-[142vh] spxx:h-[230vh]  md:text-center lg:text-center md:justify-center sm:text-center sm:justify-center flex flex-col sm:flex-col flex-wrap justify-center gap-[5rem] items-center text-white sm:text-[1.2rem] yx:text-[1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem] md:text-[1.4rem] lg:text-[1.4rem]'>
+    <div className='bg-stone-600 h-[80vh] md:h-[122vh] sm:h-[180vh] nx:h-[135vh] yx:h-[152vh] nxx:h-[135vh] nxxx:h-[135vh] spxxx:h-[150vh] lg:h-[110vh] spx:h-[142vh] spxx:h-[230vh]  md:text-center lg:text-center md:justify-center sm:text-center sm:justify-center flex flex-col sm:flex-col flex-wrap justify-center gap-[5rem] items-center text-white sm:text-[1.2rem] yx:text-[1rem] nx:text-[0.9rem] nxx:text-[0.9rem] nxxx:text-[0.9rem] md:text-[1.4rem] lg:text-[1.4rem]'>
        <div className='flex flex-col items-center gap-6'>
        <img src={logo} className="w-[5rem] h-[5rem]" />
        <div className='text-center w-[40%] sm:w-[60%]'>Our mission is to put real wellness in every bottle. No additives. No shortcuts. We just give you the best.</div>
