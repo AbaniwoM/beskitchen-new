@@ -14,7 +14,7 @@ const SectionFive = () => {
             <p className='text-[0.9rem] md:text-[1.2rem] sm:text-[0.9rem] nxxx:text-[0.7rem] nxx:text-[0.8rem] nx:text-[0.8rem]'>Client</p>
             </div>
         </div>
-        <div><img src={clientLogo} className="w-[54rem] h-[25rem] nxxx:h-[15rem] sm:w-[44rem] sm:h-[18rem] lg:h-[24rem] lg:w-[64rem]" /></div>
+        <div><img src={clientLogo} className="w-[54rem] h-[25rem] nxxx:h-[15rem] sm:w-[44rem] sm:h-[18rem] lg:h-[24rem] lg:w-[64rem]" loading='eager' /></div>
         </div>
     </div>
   )

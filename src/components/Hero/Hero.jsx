@@ -10,8 +10,8 @@ const Hero = () => {
         <p className="slogan">Doing the best!</p>
         </div>
         <div className='flex'>
-          <img src={heroLogoTwo} className="w-[25rem] h-[22rem] sm:h-[20rem] spxx:ml-[-4rem] sm:ml-[-4rem]" />
-          <img src={heroLogo} className="w-[25rem] sm:w-[20rem] h-[30rem] sm:h-[24rem] ml-[-13rem]" />
+          <img src={heroLogoTwo} className="w-[25rem] h-[22rem] sm:h-[20rem] spxx:ml-[-4rem] sm:ml-[-4rem]" loading='eager' />
+          <img src={heroLogo} className="w-[25rem] sm:w-[20rem] h-[30rem] sm:h-[24rem] ml-[-13rem]" loading='eager' />
         </div>
     </div>
   )
