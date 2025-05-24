@@ -5,7 +5,7 @@ const AboutSectionOne = () => {
   return (
     <div className='flex justify-around sm:flex-col md:flex-col m-[6rem] lg:m-[3rem] lg:gap-8 sm:m-[2rem] md:m-[3rem] nxx:m-[3rem] nx:m-[4rem] items-center'>
         <div className='sm:w-[100%] md:w-[100%]'>
-        <img src={AboutOne} className="w-[22rem] md:w-[25rem] lg:w-[22rem] h-[29rem] nxxx:h-[22rem] nxx:h-[22rem] nx:h-[25rem] sp:h-[26rem] lg:h-[28rem] md:h-[34rem] z-5" loading='eager' />
+        <img src={AboutOne} className="w-[22rem] md:w-[25rem] lg:w-[22rem] h-[29rem] nxxx:h-[22rem] nxx:h-[22rem] nx:h-[25rem] sp:h-[26rem] lg:h-[28rem] md:h-[34rem] z-5" loading='eager' alt='woman-img'/>
         </div>
         <div className='flex w-[50%] flex-col sm:w-[100%] md:w-[100%] text-white gap-6 md:gap-8'>
             <h3 className='text-2xl md:text-4xl lg:text-3xl font-bold sm:mt-10 md:mt-10 sm:text-[2rem] sp:text-[1.8rem] nxxx:text-[1.5rem] nxx:text-[1.5rem] nx:text-[1.5rem]'>Our Founder</h3>
