@@ -3,7 +3,7 @@ import React from 'react'
 const MenuSectionOne = () => {
   return (
     <div>
-        <div className="bg-[url('../../../menu-transformed.png')] relative bg-cover h-[80vh] nxxx:h-[70vh] md:h-[75vh] spxx:h-[105vh] flex flex-col flex-wrap justify-end gap-[1rem] m-[4rem] sm:m-[2rem]">
+        <div className="bg-[url('../../../menu-transformed.webp')] relative bg-cover h-[80vh] nxxx:h-[70vh] md:h-[75vh] spxx:h-[105vh] flex flex-col flex-wrap justify-end gap-[1rem] m-[4rem] sm:m-[2rem]">
         <div className="absolute inset-0 bg-black opacity-50" ></div>
         <div className='flex flex-col pl-10 pr-10 pb-16 gap-2 sm:gap-6 sm:text-center'>
         <div className='flex sm:flex-col text-white z-10 items-center justify-between sm:gap-5'>

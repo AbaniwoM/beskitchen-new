@@ -3,7 +3,7 @@ import React from 'react'
 const MenuSectionThree = () => {
   return (
     <div>
-        <div className="bg-[url('../../../spice-transformed.jpeg')] relative bg-cover sm:bg-center md:bg-center lg:bg-center h-[80vh] nxxx:h-[70vh] spxx:h-[105vh] md:h-[75vh] flex flex-col flex-wrap justify-end gap-[1rem] m-[4rem] sm:m-[2rem]">
+        <div className="bg-[url('../../../spice-transformed.webp')] relative bg-cover sm:bg-center md:bg-center lg:bg-center h-[80vh] nxxx:h-[70vh] spxx:h-[105vh] md:h-[75vh] flex flex-col flex-wrap justify-end gap-[1rem] m-[4rem] sm:m-[2rem]">
         <div className="absolute inset-0 bg-black opacity-50" ></div>
         <div className='flex flex-col pl-10 pr-10 pb-16 gap-2 sm:gap-6 sm:text-center'>
         <div className='flex sm:flex-col text-white z-10 items-center justify-between sm:gap-5 nx:gap-3 nxx:gap-3 nxxx:gap-3'>

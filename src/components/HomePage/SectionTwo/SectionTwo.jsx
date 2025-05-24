@@ -1,6 +1,6 @@
 import React from 'react'
-import zoboOne from '../../../assets/cocktail-transformed.jpeg'
-import zoboTwo from '../../../assets/pouring-transformed.jpeg'
+import zoboOne from '../../../../public/cocktail-transformed.webp'
+import zoboTwo from '../../../../public/pouring-transformed.webp'
 
 const SectionTwo = () => {
   return (

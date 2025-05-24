@@ -1,7 +1,7 @@
 import React from 'react'
-import TeamOne from '../../assets/confident.jpeg'
-import TeamTwo from '../../assets/happy.jpg'
-import TeamThree from '../../assets/medium.jpg'
+import TeamOne from '../../../public/confident.webp'
+import TeamTwo from '../../../public/happy.webp'
+import TeamThree from '../../../public/medium.webp'
 
 const AboutSectionTwo = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaQuoteRight } from "react-icons/fa";
-import clientLogo from '../../../assets/portrait.jpg'
+import clientLogo from '../../../../public/portrait.webp'
 
 const SectionFive = () => {
   return (

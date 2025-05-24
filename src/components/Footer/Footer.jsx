@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/ribbon-logo.png';
+import logo from '../../../public/ribbon-logo.webp';
 import { IoLogoWhatsapp } from "react-icons/io";
 import { AiFillInstagram } from "react-icons/ai";
 import { FaYoutube } from "react-icons/fa";

@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/ribbon-logo.png';
+import logo from '../../../public/ribbon-logo.webp';
 import { useNavigate } from "react-router-dom";
 import Hamburger from './Hamburger';
 

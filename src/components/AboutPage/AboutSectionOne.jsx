@@ -1,5 +1,5 @@
 import React from 'react'
-import AboutOne from '../../assets/woman.jpg'
+import AboutOne from '../../../public/woman.webp'
 
 const AboutSectionOne = () => {
   return (
